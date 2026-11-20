@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Rana-s-Ind.github.io/PDF/sitemap.xml

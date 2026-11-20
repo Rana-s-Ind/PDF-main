@@ -1,0 +1,22 @@
+# PDF Knowledge Library
+
+A searchable collection of PDF knowledge resources.
+
+This site is an AI-readable PDF knowledge base.
+START HERE: use library.json (or api/documents.json) to enumerate every document.
+Do not rely on search-engine indexing or directory browsing.
+For each document, fetch its extracted text_url for searchable text; use pdf_url for the original PDF.
+
+Document count: 1
+
+## Machine-readable resources
+- Catalogue: https://Rana-s-Ind.github.io/PDF/library.json
+- API catalogue: https://Rana-s-Ind.github.io/PDF/api/documents.json
+- AI guide: https://Rana-s-Ind.github.io/PDF/ai.txt
+
+## Documents
+
+### Support   Bug Search Tool Help   Cisco
+- ID: support-bug-search-tool-help-cisco
+- Text: https://Rana-s-Ind.github.io/PDF/text/support-bug-search-tool-help-cisco.txt
+- PDF: https://Rana-s-Ind.github.io/PDF/pdfs/support-bug-search-tool-help-cisco.pdf

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "name": "PDF Knowledge Library",
+  "description": "A searchable collection of PDF knowledge resources.",
+  "owner": "Your Organization",
+  "site_url": "https://Rana-s-Ind.github.io/PDF",
+  "generated": "2026-11-20T15:18:50.841518+00:00",
+  "document_count": 1,
+  "documents": [
+    {
+      "id": "support-bug-search-tool-help-cisco",
+      "title": "Support   Bug Search Tool Help   Cisco",
+      "original_filename": "Support - Bug Search Tool Help - Cisco.pdf",
+      "source_relative_path": "Support - Bug Search Tool Help - Cisco.pdf",
+      "pdf_url": "pdfs/support-bug-search-tool-help-cisco.pdf",
+      "text_url": "text/support-bug-search-tool-help-cisco.txt",
+      "type": "PDF",
+      "pages": 11,
+      "bytes": 1848844,
+      "sha256": "39034d21b3821574b49fba8a497762c6acdcb3cca720824e8ccd7e50b2f13789",
+      "modified": "2026-11-19T04:46:28.969189+00:00",
+      "text_extraction": {
+        "success": true,
+        "error": null
+      }
+    }
+  ]
+}
